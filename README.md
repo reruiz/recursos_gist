@@ -44,6 +44,6 @@ También es posible combinar imágenes e hipervínculos. Si se desea insertar un
 
 ***Ejemplo:***
 
-[![Esta es una imagen de ejemplo](https://es.wikipedia.org/wiki/Wikipedia:Portada)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/275px-Google-flutter-logo.svg.png)
+[![Esta es una imagen de ejemplo](https://es.wikipedia.org/wiki/Wikipedia)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/275px-Google-flutter-logo.svg.png)
 
 **Figura 1**. Esta es una imagen de ejemplo.
