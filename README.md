@@ -33,3 +33,17 @@ Para insertar imagenes se debe poner primero un signo de exclamación, después,
 ![Esta es una imagen de ejemplo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/275px-Google-flutter-logo.svg.png)
 
 **Figura 1**. Esta es una imagen de ejemplo.
+
+También es posible combinar imágenes e hipervínculos. Si se desea insertar un enlace en el que se pueda hacer clic detrás de la imagen, puedes anidar una función dentro de la otra. En este caso, la imagen se convertirá en un texto de anclaje y, por lo tanto, deberá figurar entre corchetes.
+
+```
+[![Esta es una imagen de ejemplo](https://es.wikipedia.org/wiki/Wikipedia:Portada)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/275px-Google-flutter-logo.svg.png)
+
+**Figura 1**. Esta es una imagen de ejemplo.
+```
+
+***Ejemplo:***
+
+[![Esta es una imagen de ejemplo](https://es.wikipedia.org/wiki/Wikipedia:Portada)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/275px-Google-flutter-logo.svg.png)
+
+**Figura 1**. Esta es una imagen de ejemplo.
